@@ -7,4 +7,4 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git;openwrt-19.07
 src-git kenzok https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git mypackages https://github.com/siropboy/mypackages
-
+src-git leafsay https://github.com/leafsay/theme
